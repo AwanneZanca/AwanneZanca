@@ -6,14 +6,17 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
 
 ##
 📊Dashboards
+- Utilizo a Linguagem R para criar meus Dashboards, além de ferramenta de vizualização como PowerBI, Tableau e ODV.
 
 ##
 ⛏Web Scraping 
+- Utilizo o Phyton para fazer rasoagem de dados, com as biblioteca beautifulsoup4 e selenium.
 
 ##
-☁️Cloud
+🔎Análise de dados
+- Utilizo as Linguagens R, Phyton e SQL para fazer a análise e plotar gráficos. 
 
-
+##
 
 
   <a href="https://github.com/AwanneZanca">
