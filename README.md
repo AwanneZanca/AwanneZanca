@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu GitHub!😈
 
 <img align="right" src="https://share-cdn.picrew.me/shareImg/org/202109/1088964_KuY8Fixb.png" width="256" height="256" />
-Olá, meu nome é Awanne e sou granduanda em engenharia de Telecomunicações na Unicamp.
+Olá, meu nome é Awanne e Curso Engenharia de Telecomunicações.
 Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Data Science.
 
 ##
