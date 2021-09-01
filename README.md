@@ -37,7 +37,6 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
  ##
  
 <p align="center">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
-  <img align="center"  height="30" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772123.png">
-  
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+   <img   height="30" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772123.png">
+  <img   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
