@@ -10,7 +10,7 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
 
 ##
 ⛏Web Scraping 
-- Utilizo o Phyton para fazer rasoagem de dados, com as biblioteca beautifulsoup4 e selenium.
+- Utilizo o Phyton para fazer raspagem de dados, com as biblioteca beautifulsoup4 e selenium.
 
 ##
 🔎Análise de dados
