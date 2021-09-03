@@ -1,31 +1,39 @@
 ## Bem-vindo(a) ao meu GitHub!
 
+<p>
 <img align="right" src="https://media3.giphy.com/media/gbgX4DC8CwCm19ysRS/giphy.gif?cid=790b76112cfb339c8e15f51f17cb984f1b17236500b1a6de&rid=giphy.gif&ct=g" width="250" height="256" />
 Olá, meu nome é Awanne e Curso Engenharia de Telecomunicações.
 Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Data Science.
+</p>
 
-<p>
-*Clique nos ícones para visitar os repertórios.*
+ 
+<i> Clique nos ícones para ir até os repertórios </i>
 
 ##
 Dashboards
-<a href="https://github.com/AwanneZanca?tab=repositories">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/2328/2328966.png" width=40 />
+<a href="https://github.com/AwanneZanca/MeusDashboards">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/2329/2329083.png" width=40 />
  </a>
 - Utilizo a Linguagem R para criar meus Dashboards, além de ferramenta de vizualização como PowerBI, Tableau e ODV.
 
 ##
-⛏Web Scraping 
+Web Scraping 
+<a href="https://github.com/AwanneZanca/WebScraping">
+ <img align="left" src="https://img-premium.flaticon.com/png/512/5294/premium/5294111.png?token=exp=1630704888~hmac=3fc1750bb070134111fca109eb878e28" width=40 />
+  </a>
 - Utilizo o Phyton para fazer raspagem de dados, com as biblioteca beautifulsoup4 e selenium.
 
 ##
-🔎Análise de dados
+Análise de dados
+<a href="https://github.com/AwanneZanca/MeusDashboards">
+ <img align="left" src="https://cdn-icons-png.flaticon.com/512/1116/1116302.png" width=40 />
+  </a>
 - Utilizo as Linguagens R, Phyton e SQL para fazer a análise e plotar gráficos. 
 
 ##
 
 
-  <a href="https://github.com/AwanneZanca?tab=repositories">
+  <a href="https://github.com/AwanneZanca/Analytics">
     <p align="center">
     <img title="🔥 Estatísticas" alt="Morphclue Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=AwanneZanca&theme=dark"/>
   </a>
