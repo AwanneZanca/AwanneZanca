@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu GitHub!😈
+## Bem-vindo(a) ao meu GitHub!
 
 <img align="right" src="https://media3.giphy.com/media/gbgX4DC8CwCm19ysRS/giphy.gif?cid=790b76112cfb339c8e15f51f17cb984f1b17236500b1a6de&rid=giphy.gif&ct=g" width="250" height="256" />
 Olá, meu nome é Awanne e Curso Engenharia de Telecomunicações.
