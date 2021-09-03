@@ -19,7 +19,7 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
 ##
 
 
-  <a href="https://github.com/AwanneZanca">
+  <a href="https://github.com/AwanneZanca?tab=repositories">
     <p align="center">
     <img title="🔥 Estatísticas" alt="Morphclue Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=AwanneZanca&theme=dark"/>
   </a>
