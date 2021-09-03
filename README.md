@@ -4,8 +4,14 @@
 Olá, meu nome é Awanne e Curso Engenharia de Telecomunicações.
 Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Data Science.
 
+<p>
+*Clique nos ícones para visitar os repertórios.*
+
 ##
-📊Dashboards
+Dashboards
+<a href="https://github.com/AwanneZanca?tab=repositories">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/2328/2328966.png" width=40 />
+ </a>
 - Utilizo a Linguagem R para criar meus Dashboards, além de ferramenta de vizualização como PowerBI, Tableau e ODV.
 
 ##
