@@ -11,25 +11,23 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
 
 ##
 <strong>Dashboards</strong>
-<a href="https://github.com/AwanneZanca/MeusDashboards">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/2329/2329083.png" width=35 />
+<a href="https://github.com/AwanneZanca/MeusDashboards/blob/main/Dashboard_BolsaDeValores.Rmd">
+ - Bolsa de Valores.
  </a>
-- Utilizo a Linguagem R para criar meus Dashboards, além de ferramenta de vizualização como PowerBI, Tableau e ODV.
 
 
 ##
 <strong>Web Scraping</strong>
 <a href="https://github.com/AwanneZanca/WebScraping">
- <img align="left" src="https://img-premium.flaticon.com/png/512/5294/premium/5294111.png?token=exp=1630704888~hmac=3fc1750bb070134111fca109eb878e28" width=35 />
+ - G1.
   </a>
-- Utilizo o Phyton para fazer raspagem de dados, com as biblioteca beautifulsoup4 e selenium.
+
 
 ##
 <strong>Análise de dados</strong>
-<a href="https://github.com/AwanneZanca/MeusDashboards">
- <img align="left" src="https://cdn-icons-png.flaticon.com/512/1116/1116302.png" width=35 />
-  </a>
-- Utilizo as Linguagens R, Phyton e SQL para fazer a análise e plotar gráficos. 
+<a href="https://github.com/AwanneZanca/Analytics">
+ - Bactérias e Cianobactérias. 
+ </a>
 
 ##
 
