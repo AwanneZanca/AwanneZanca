@@ -11,7 +11,7 @@ Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Da
 
 ##
 <strong>Dashboards</strong>
-<a href="https://github.com/AwanneZanca/MeusDashboards/blob/main/Dashboard_BolsaDeValores.Rmd">
+<a href="https://github.com/AwanneZanca/Dash_BolsaDeValores">
  - Bolsa de Valores.
  </a>
 
