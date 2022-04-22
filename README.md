@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu GitHub! 🙂
 
 <p>
-<img align="right" src="https://media3.giphy.com/media/gbgX4DC8CwCm19ysRS/giphy.gif?cid=790b76112cfb339c8e15f51f17cb984f1b17236500b1a6de&rid=giphy.gif&ct=g" width="250" height="256" />
+<img align="right" src="https://64.media.tumblr.com/76a9a6d4163bd6e0f5f0d1cf3a96871f/fbfcffa4b4b3d946-70/s500x750/b851df158174ba93a56e1e5d93b444536ace3aa0.gifv" width="250" height="256" />
 Olá, meu nome é Awanne e Curso Engenharia de Telecomunicações.
 Sou uma estusiasta aos estudos de Análise de Dados e pretendo trabalhar como Data Science.
 </p>
