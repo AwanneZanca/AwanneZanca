@@ -115,11 +115,16 @@ awanne = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwanneZanca&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="70%"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwanneZanca&theme=tokyonight)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwanneZanca&langs_count=7&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="70%"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwanneZanca&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwanneZanca&theme=tokyonight)
+
 </div>
 
 ---
