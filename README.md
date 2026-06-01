@@ -111,20 +111,20 @@ awanne = {
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AwanneZanca&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FF694B&ring=017CEE&currStreakLabel=017CEE" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=AwanneZanca&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FF694B&ring=017CEE&currStreakLabel=017CEE" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwanneZanca&theme=tokyonight)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwanneZanca&theme=tokyonight" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwanneZanca&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwanneZanca&theme=tokyonight)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwanneZanca&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwanneZanca&theme=tokyonight" width="49%"/>
 </div>
 
 ---
