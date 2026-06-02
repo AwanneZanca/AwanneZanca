@@ -26,12 +26,12 @@ awanne = {
     "formação"     : "Engenharia de Telecomunicações — UNICAMP",
     "foco"         : "Analytics Engineering + Data Engineering",
     "stack_atual"  : ["BigQuery", "Looker", "SQL", "Python"],
-    "aprendendo"   : ["Airflow", "dbt", "Databricks", "Jenkins"],
+    "aprendendo"   : ["Airflow", "dbt", "Jenkins", "GCP"],
     "localização"  : "Hortolândia, SP 🇧🇷",
 }
 ```
 
-> Analista de Dados & BI na Stone • Construindo pipelines end-to-end com Airflow, dbt e Databricks na GCP • UNICAMP Eng. Telecom
+> Analista de Dados & BI na Stone • Construindo pipelines end-to-end com Airflow, dbt e BigQuery na GCP • UNICAMP Eng. Telecom
 
 <br clear="right"/>
 
@@ -41,14 +41,14 @@ awanne = {
 
 ### [📦 portfolio-dados](https://github.com/AwanneZanca/portfolio-dados)
 
-> Pipeline de dados **end-to-end** rodando na GCP — Airflow orquestra, Databricks processa, dbt modela, BigQuery armazena e Power BI visualiza. CI/CD automatizado via Jenkins.
+> Pipeline de dados **end-to-end** rodando na GCP — Airflow orquestra, dbt modela, BigQuery armazena. CI/CD automatizado via Jenkins com webhook no GitHub.
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -59,9 +59,8 @@ awanne = {
 **Engenharia de Dados**
 
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Cloud & Infra**
 
@@ -104,27 +103,6 @@ awanne = {
 ![IBM DataOps](https://img.shields.io/badge/✅%20IBM-DataOps%20Methodology-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![DP-600](https://img.shields.io/badge/🔄%20Microsoft-DP--600%20em%20andamento-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AwanneZanca&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FF694B&ring=017CEE&currStreakLabel=017CEE" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwanneZanca&theme=tokyonight" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwanneZanca&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwanneZanca&theme=tokyonight" width="49%"/>
 </div>
 
 ---
