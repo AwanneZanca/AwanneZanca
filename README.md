@@ -39,7 +39,7 @@ awanne = {
 
 ## 🚀 Projeto em Destaque
 
-### [📦 portfolio-dados](https://github.com/AwanneZanca/portfolio-dados)
+### [📦 pipeline-dados-GCP-Bacen](https://github.com/AwanneZanca/pipeline-dados-GCP-Bacen)
 
 > Pipeline de dados **end-to-end** rodando na GCP — Airflow orquestra, dbt modela, BigQuery armazena. CI/CD automatizado via Jenkins com webhook no GitHub.
 
