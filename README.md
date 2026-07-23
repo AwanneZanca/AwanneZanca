@@ -23,10 +23,10 @@
 ```python
 awanne = {
     "cargo_atual"  : "Analista de Motores de Decisão de Crédito @ Stone",
-    "formação"     : "Engenharia de Telecomunicações — UNICAMP",
+    "formação"     : "Engenharia de Telecomunicações - UNICAMP",
     "foco"         : "Analytics Engineering + Data Engineering",
-    "stack_atual"  : ["BigQuery", "Looker", "SQL", "Python"],
-    "aprendendo"   : ["Airflow", "dbt", "Jenkins", "GCP"],
+    "stack_atual"  : ["BigQuery", "Looker", "SQL", "Python", "Airflow", "dbt", "GCP"],
+    "explorando"   : ["MCP", "RAG", "IA Generativa aplicada a dados"],
     "localização"  : "Hortolândia, SP 🇧🇷",
 }
 ```
@@ -37,11 +37,15 @@ awanne = {
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [📦 pipeline-dados-GCP-Bacen](https://github.com/AwanneZanca/pipeline-dados-GCP-Bacen)
 
-> Pipeline de dados **end-to-end** rodando na GCP — Airflow orquestra, dbt modela, BigQuery armazena. CI/CD automatizado via Jenkins com webhook no GitHub.
+Pipeline de dados **end-to-end** rodando na GCP - Airflow orquestra, dbt modela, BigQuery armazena. CI/CD automatizado via Jenkins com webhook no GitHub.
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
@@ -49,6 +53,22 @@ awanne = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🤖 Vivaz-Chatbot-MCP](https://github.com/AwanneZanca/Vivaz-Chatbot-MCP)
+
+Assistente de IA para Insurtech que cruza **PDFs** (RAG local) e **SQL** (arquitetura Medallion) via **MCP**, rodando 100% local. Sinaliza inconsistências de dado em vez de escondê-las atrás de `NULL`.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-IA%20Generativa-8A2BE2?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,11 +96,17 @@ awanne = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**IA Generativa**
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 </div>
 
 ---
 
-## 📂 Projetos
+## 📂 Outros Projetos
 
 <div align="center">
 
@@ -90,6 +116,19 @@ awanne = {
 | [🔍 Web Scraping G1](https://github.com/AwanneZanca/WebScraping) | Extração de notícias do portal G1 | Python, BeautifulSoup |
 | [🔬 Bactérias e Cianobactérias](https://github.com/AwanneZanca/Analytics) | Análise exploratória de dados científicos | Python, Pandas |
 
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AwanneZanca&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AwanneZanca&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwanneZanca&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
